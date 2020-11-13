@@ -1,2 +1,3 @@
-# Teste-Teste-Testando
-é apenas um teste, minha conta é um teste, este repositório é um teste, a vida é um teste...
+# Estou aprendendo a ser um programador
+# Este repositório é apenas um teste, pois busco aprender mais sobre o GitHub
+# Ignore os erros, este é meu primeiro repositório teste
